@@ -10,11 +10,11 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'gees'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
-# Contributing
+## Contributing
 pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
 <br/>
 Please make sure to update tests as appropriate
 
-# Lincese
+## Lincese
 [MIT](http://www.MIT.com)
 ![python](python.jpg) 
